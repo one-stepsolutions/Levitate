@@ -1,0 +1,151 @@
+
+/* Single page img career*/ 
+.container{
+    position: relative;
+    text-align: center;
+    color: white;
+    padding-top: 50%;   
+  }
+  
+  .top-right {
+    position: absolute;
+    top: 85%;
+    right:20%;
+    height:80% auto;
+    width: 60% auto;
+  }
+
+  @media screen and (max-width: 812px) {
+    .top-right{
+      height: 200;
+      width: 90%; 
+}
+}
+.abc{
+
+    width:auto;
+    
+}
+@media screen and (max-width: 812px) {
+  .abc{
+    height:90%;
+    width: 100%;
+}
+}
+
+/* On screens that are 600px wide or less, the background color is olive */
+@media screen and (max-width: 360px) {
+.abc{
+height:78% ;
+widows: 50%;
+}
+}
+/* On screens that are 600px wide or less, the background color is olive */
+@media screen and (max-width: 360px) {
+.top-right{
+ width: 90%;    
+}
+}
+
+ .img{
+   height:75%;
+   width: 75%;
+ }
+  
+  @media screen and (max-width: 812px) {
+    .img{
+      height: 40%;
+      width: 85%
+}
+}
+
+/* On screens that are 600px wide or less, the background color is olive */
+@media screen and (max-width: 360px)  {
+.img{
+  top: 15%;
+  height: 40%;
+  width: 80%; 
+  text-align: center;
+}
+}
+ .text{
+    position: absolute;top:20%;left: 20%; font-size: 12px;
+    text-align: justify;
+
+  }
+  @media screen and (max-width: 812px) {
+    .text{
+   font-size: 100%;
+   left: 5%;
+   top:5%;
+
+}
+}
+
+/* On screens that are 600px wide or less, the background color is olive */
+@media screen and (max-width: 360px) {
+
+.text{
+  font-size: 12px;
+  left: 10%;
+  top: 5%;
+}
+}
+ /*  page img Philosophy*/
+
+ 
+ .containerphilo {
+  position: relative;
+  text-align: left;
+  left:10%;
+  color: white;
+  padding-top: 135%;
+}
+
+.top-rightphilo {
+  position: absolute;
+  top: 85%;
+  left: 30%;
+  height:80% auto;
+  width: 50% auto;
+}
+
+.imgphilo{
+  height: 80%;
+  width: 65%;   
+}
+
+
+.containerphilo-two{
+position: relative;
+  text-align: right;
+  color: white;
+  padding-top: 24%;  
+}
+
+.top-rightphilo-two{
+position: absolute;
+  top: 60%;
+  right: 25%;
+  height:60% auto;
+  width: 50% auto;
+}
+
+.containerphilo-three{
+position: relative;
+  text-align: center;
+  color: white;
+  padding-top: 50%;
+} 
+  
+.top-rightphilo-three{
+position: absolute;
+  top: 75%;
+  right: 23%;
+  height:60% auto;
+  width: 50% auto;
+}
+.textphilo{
+  position: absolute;top:65%;left:10%; font-size: 100%; font-family: 'Calibri';
+    text-align: justify;
+}

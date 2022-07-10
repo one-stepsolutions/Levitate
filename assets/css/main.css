@@ -1,0 +1,43 @@
+
+
+.dsn-grid-info h6.slide-content__kicker {
+   font-family: 'Gotham-light';
+   font-size: 20px;
+}
+.dsn-grid-info .s-des p {
+    font-family: 'Gotham-bold';font-size:18px;
+}
+.dsn-grid-info-wrapper .custom-btn .custom-btn__label .right {
+    width: auto;
+    padding-left: 10px;
+}
+.dsn-grid-slider .dsn-grid-content .dsn-grid-info .banner-slogo {
+    padding: 45px 0px;
+}
+.dsn-grid-slider .dsn-grid-content .dsn-grid-info .title .text-with-logo {
+   float: left;
+}
+.dsn-grid-slider .dsn-grid-content .dsn-grid-info .img-title {
+   width: 550px;
+}
+/*.dsn-grid-slider .dsn-grid-content .dsn-grid-info h2.other-font {
+	font-family: 'bodoni_bk_btbook' !important;
+	text-transform: lowercase;
+	color: #fff;
+}*/
+.copyright {
+	padding-top: 30px;
+	padding-left: 10px;
+}
+.copyright p {
+	color: #fff;
+	font-family: 'Gotham-Light';
+	font-size: 50px;
+}
+
+@media screen and (max-width: 400px ){
+    .dsn-grid-info .s-des p{font-size:12px;}
+    .dsn-grid-slider .dsn-grid-content .dsn-grid-info .img-title{width:100%; padding:10px;}
+    .dsn-grid-slider .dsn-grid-content .dsn-grid-info .banner-slogo{padding:45px;}
+}
+

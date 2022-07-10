@@ -1,0 +1,31 @@
+
+.fonts{
+
+
+    font-size: 25px;
+    color:#FFFFFF;
+    line-height:16px;
+    text-align: absolute;
+    padding-top: 5%;
+    padding-right:20%;
+    padding-left: 10%;
+    position: absolute;
+    font-family:'Calibri';
+}
+
+.container
+  {
+    
+    text-align: absolute;
+    padding-top: 35%;
+    padding-right:50%;
+ 
+    
+  }
+.headings{
+  font-size: 25px;
+  color:red;
+  text-align:absolute;
+  font-style: bold;
+
+}
